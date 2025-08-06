@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Budget Optimizer",
+  "description": "An application that uses quantum-inspired algorithms to optimize personal or business budgets by analyzing financial data and predicting future cash flows.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
